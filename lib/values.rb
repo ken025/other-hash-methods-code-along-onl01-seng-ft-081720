@@ -15,5 +15,5 @@ groceries = {
   meat: ["chicken", "steak", "salmon"],
   grains: ["rice", "pasta"]
  }
- groceries.value
+ groceries.values
 end
