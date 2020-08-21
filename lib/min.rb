@@ -8,5 +8,5 @@ def get_the_min(groceries)
   meat: ["chicken", "steak", "salmon"],
   grains: ["rice", "pasta"]
  }
- groceries.min,flatten
+ groceries.min.flatten
 end
